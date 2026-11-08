@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#221c18">
+  <title>Herdade da Granja</title>
+  <link rel="icon" href="brand/favicon.svg" type="image/svg+xml">
+  <script type="module" crossorigin src="./assets/index-C19DnWiK.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-V_a5P0sz.css">
+</head>
+<body class="view-estate" data-light="golden">
+  <div class="loader" id="loader" aria-hidden="true">
+    <img class="ld-mark" src="brand/logo-mark-white.svg" alt="">
+  </div>
+
+  <section class="cover" id="cover" aria-label="Herdade da Granja">
+    <img class="cover-img" id="cover-img" alt="" decoding="async">
+    <div class="cover-shade"></div>
+    <div class="cover-text">
+      <h1 class="cover-logo"><img src="brand/logo-primary-white.svg" alt="Herdade da Granja, Estremoz, Alentejo"></h1>
+      <p class="cover-line">A Portuguese working estate with a small luxury hotel inside it. Not a resort consuming an estate.</p>
+      <div class="cover-actions"><button type="button" class="btn cover-btn" data-act="enter-estate">Enter the estate</button>
+      <button type="button" class="btn cover-tour" data-act="tour">Take the guided tour</button>
+      <button type="button" class="btn cover-tour cover-film" data-act="film" hidden>Watch the film</button></div>
+    </div>
+    <span class="cover-cap">AI visualisation, illustrative</span>
+  </section>
+
+  <header class="topbar">
+    <button type="button" class="wordmark" data-go="estate" aria-label="Herdade da Granja, back to the estate"><img class="wm-light" src="brand/logo-wordmark-white.svg" alt=""><img class="wm-dark" src="brand/logo-wordmark.svg" alt=""></button>
+    <div class="top-right">
+      <span class="review-tag">Private preview</span>
+      <button type="button" data-go="business">The business</button>
+      <button type="button" data-go="funding">Funding</button>
+      <button type="button" data-go="how">How it works</button>
+    </div>
+  </header>
+
+  <main class="estate" id="estate" aria-label="The estate from above">
+    <div class="backdrop" id="backdrop" aria-hidden="true"></div>
+    <div class="stage" id="stage">
+      <svg class="ov" viewBox="0 0 1615 974" preserveAspectRatio="none" aria-hidden="true"></svg>
+    </div>
+    <section class="intro" aria-label="Introduction">
+      <h1>From the cypress drive to the water's edge</h1>
+      <p class="sub">Experiences spread through the landscape, to be discovered.</p>
+      <dl class="facts">
+        <div><dt>mapped boundary</dt><dd>about 345 ha</dd></div>
+        <div><dt>perimeter</dt><dd>8.87 km</dd></div>
+        <div><dt>above sea level</dt><dd>310–436 m</dd></div>
+        <div><dt>rooms at opening</dt><dd>10</dd></div>
+      </dl>
+      <p class="facts-note">Land figures are map estimates, not a survey.</p>
+      <p class="map-note today">Satellite image: Google Earth, from José María's plans.</p>
+      <p class="map-note painted">Planned buildings painted into the Google Earth satellite view with AI from José María's brief, with his masterplan at the main house. A simulation: illustrative, not surveyed.</p>
+    </section>
+  </main>
+  <div class="markers" id="markers"></div>
+
+  <aside class="card" id="card" aria-live="polite" aria-label="Place details"></aside>
+  <svg class="leader" id="leader" aria-hidden="true"><line x1="0" y1="0" x2="0" y2="0"/></svg>
+
+  <nav class="dock" aria-label="Guest journey">
+    <div class="journey">
+      <button type="button" data-go="arrival"><span class="num">I</span><span class="nm">Arrival</span></button>
+      <button type="button" data-go="main"><span class="num">II</span><span class="nm">Main house</span></button>
+      <button type="button" data-go="villas"><span class="num">III</span><span class="nm">Villas</span></button>
+      <button type="button" data-go="riding"><span class="num">IV</span><span class="nm">Riding</span></button>
+      <button type="button" data-go="spa"><span class="num">V</span><span class="nm">Spa</span></button>
+      <button type="button" data-go="cork"><span class="num">VI</span><span class="nm">Cork</span></button>
+    </div>
+    <span class="sep light-sep"></span>
+    <div class="view-wrap">
+      <button type="button" class="view-btn" data-act="view" aria-expanded="false" aria-controls="view-pop"><svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="2.6" fill="none" stroke="currentColor" stroke-width="1.4"/><path d="M1.5 8s2.4-4.5 6.5-4.5S14.5 8 14.5 8 12.1 12.5 8 12.5 1.5 8 1.5 8Z" fill="none" stroke="currentColor" stroke-width="1.4"/></svg>View</button>
+    </div>
+    <span class="sep home-sep"></span>
+    <button type="button" class="dock-home" data-go="estate" aria-label="Back to the estate map"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M10 3.5 5.5 8l4.5 4.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg><span>Estate map</span></button>
+  </nav>
+
+  <div class="chapter" id="chapter" tabindex="-1" aria-live="polite">
+    <div class="bg"></div>
+    <div class="content"></div>
+  </div>
+
+  <div class="room" id="room" role="dialog" aria-modal="true" aria-label="Room view">
+    <div class="r-bg"></div>
+    <div class="stagev"></div>
+    <div class="r-bar">
+      <button type="button" class="back" data-act="room-back">Back to the plan</button>
+      <div class="mid"><b></b><span></span></div>
+      <div class="right"><span class="count"></span>
+        <button type="button" class="arrow" data-act="room-prev" aria-label="Previous space">‹</button>
+        <button type="button" class="arrow" data-act="room-next" aria-label="Next space">›</button></div>
+    </div>
+    <span class="r-cap"></span>
+  </div>
+
+  <div class="drawer-bg" id="drawer-bg"></div>
+  <aside class="drawer" id="drawer" role="dialog" aria-modal="true" aria-label="The business behind it" tabindex="-1"></aside>
+
+  <div class="skip" id="skip"><span>Click to skip</span></div>
+  <div class="view-pop" id="view-pop" aria-label="View settings">
+        <p class="vp-h">Light</p>
+        <div class="light" role="group" aria-label="Light">
+      <button type="button" data-light="midday" aria-pressed="false">Midday</button>
+      <button type="button" data-light="golden" aria-pressed="true">Golden</button>
+      <button type="button" data-light="dusk" aria-pressed="false">Dusk</button>
+    </div>
+        <p class="vp-h">The map shows</p>
+        <div class="light map-mode" role="group" aria-label="What the map shows">
+      <button type="button" data-mapmode="today" aria-pressed="true">Today</button>
+      <button type="button" data-mapmode="painted" aria-pressed="false">Planned</button>
+      <button type="button" data-mapmode="drawn" aria-pressed="false">Drawing</button>
+    </div>
+        <p class="vp-h">Present</p>
+        <div class="light" role="group" aria-label="Present">
+      <button type="button" data-act="tour">Guided tour</button>
+      <button type="button" data-act="film" hidden>The film</button>
+    </div>
+      </div>
+  <div class="hud" id="hud" hidden></div>
+  <div class="filmbox" id="filmbox" role="dialog" aria-label="Herdade da Granja, a first look" hidden>
+    <video id="film-video" controls playsinline preload="none"></video>
+    <button type="button" class="m-close fb-close" data-act="film-close" aria-label="Close the film">Close</button>
+  </div>
+  <div class="tourbar" id="tourbar" role="region" aria-label="Guided tour" hidden>
+    <span class="t-label" aria-live="polite"></span>
+    <button type="button" data-act="tour-prev" aria-label="Previous stop">Back</button>
+    <button type="button" data-act="tour-next" aria-label="Next stop">Next</button>
+    <button type="button" data-act="tour-exit">End tour</button>
+  </div>
+
+</body>
+</html>

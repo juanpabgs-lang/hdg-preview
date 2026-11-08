@@ -1,0 +1,253 @@
+{
+ "cover-riders-house": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p62"
+ },
+ "arrival-lane": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p16"
+ },
+ "arrival-street": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p15"
+ },
+ "arrival-donkey": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p07"
+ },
+ "arrival-red-door": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p17"
+ },
+ "arrival-lantern": {
+  "w": 2048,
+  "h": 1362,
+  "src": "p24"
+ },
+ "arrival-chimney": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p70"
+ },
+ "arrival-bike": {
+  "w": 1152,
+  "h": 2048,
+  "src": "p20"
+ },
+ "main-green-door": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p65"
+ },
+ "main-stair": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p10"
+ },
+ "main-fireplace": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p54"
+ },
+ "main-candles": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p66"
+ },
+ "main-table-setting": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p28"
+ },
+ "main-table-grapes": {
+  "w": 2048,
+  "h": 2048,
+  "src": "p19"
+ },
+ "main-lunch-pergola": {
+  "w": 1152,
+  "h": 2048,
+  "src": "p22"
+ },
+ "main-arch-view": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p72"
+ },
+ "main-trough": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p71"
+ },
+ "main-chapel": {
+  "w": 1152,
+  "h": 2048,
+  "src": "p30"
+ },
+ "main-pool-gate": {
+  "w": 1844,
+  "h": 2048,
+  "src": "p18"
+ },
+ "main-pool-arch": {
+  "w": 1362,
+  "h": 2048,
+  "src": "p21"
+ },
+ "riding-grey-gate": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p02"
+ },
+ "riding-lane": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p04"
+ },
+ "riding-cork-oaks": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p64"
+ },
+ "riding-vineyard-view": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p36"
+ },
+ "riding-white-wall": {
+  "w": 2048,
+  "h": 1364,
+  "src": "p39"
+ },
+ "riding-horseshoe": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p69"
+ },
+ "riding-field-flock": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p61"
+ },
+ "riding-far-riders": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p68"
+ },
+ "riding-white-horse": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p67"
+ },
+ "riding-vine-row": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p03"
+ },
+ "riding-vineyard-rows": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p05"
+ },
+ "riding-figs": {
+  "w": 1152,
+  "h": 2048,
+  "src": "p40"
+ },
+ "water-tank": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p41"
+ },
+ "water-hammock": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p35"
+ },
+ "cork-edge": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p59"
+ },
+ "cork-trail-mist": {
+  "w": 2048,
+  "h": 1330,
+  "src": "p55"
+ },
+ "cork-picnic": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p77"
+ },
+ "cork-stripped": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p78"
+ },
+ "cork-stripped-tall": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p73"
+ },
+ "cork-marked": {
+  "w": 1366,
+  "h": 2048,
+  "src": "p47"
+ },
+ "cork-dogs-rest": {
+  "w": 1364,
+  "h": 2048,
+  "src": "p46"
+ },
+ "cork-truck": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p09"
+ },
+ "cork-basket": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p06"
+ },
+ "cork-walk": {
+  "w": 1356,
+  "h": 2048,
+  "src": "p37"
+ },
+ "cork-giant": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p79"
+ },
+ "cork-sheep-gold": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p74"
+ },
+ "cork-lone-tree": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p60"
+ },
+ "cork-ruin-field": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p50"
+ },
+ "cork-utv": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p52"
+ },
+ "arrival-street-enhanced": {
+  "w": 2048,
+  "h": 1366,
+  "src": "p15",
+  "caption": "Photograph of the estate today, light and colour enhanced (no AI repaint)"
+ }
+}

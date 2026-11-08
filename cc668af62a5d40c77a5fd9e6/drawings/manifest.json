@@ -1,0 +1,56 @@
+{
+  "set": "Herdade da Granja, concept drawings",
+  "status": "concept, illustrative",
+  "date": "2026-11-03",
+  "author": "Norfront",
+  "drawings": [
+    {
+      "number": "DG-A-101",
+      "title": "Site plan, main hub",
+      "file": "site-plan.svg",
+      "png": "site-plan@2x.png",
+      "viewBox": "0 0 1178 1335",
+      "registration": "1 unit = 1 masterplan pixel; hotspot coordinates in masterplan px land unchanged",
+      "source": "v1/masterplan.jpg (José María's conceptual masterplan)",
+      "scale": "graphic, from his bar: 50 m = 209 px (4.18 units per metre)"
+    },
+    {
+      "number": "DG-A-102",
+      "title": "Spa and natural reservoir, plan",
+      "file": "spa-plan.svg",
+      "png": "spa-plan@2x.png",
+      "viewBox": "0 0 1232 1024",
+      "registration": "1 unit = 1 spa-plan pixel; hotspot coordinates in spa-plan px land unchanged",
+      "source": "v1/spa-plan.jpg (José María's spa concept plan); reservoir edge from models-src/spa_watermask.png",
+      "scale": "graphic, from his bar: 8.4586 px per metre"
+    },
+    {
+      "number": "DG-A-103",
+      "title": "Estate plan",
+      "file": "estate-plan.svg",
+      "png": "estate-plan@2x.png",
+      "viewBox": "0 0 1615 974",
+      "registration": "1 unit = 1 estate-map pixel; ESTATE.boundary and ZONES coordinates land unchanged",
+      "source": "v1/estate-map.jpg (José María's estate distribution plan) and assets/estate-midday-1615.jpg for tracks, woodland and fields",
+      "scale": "graphic, approximate: 0.505 px per metre, derived from his mapped area (about 345 ha) over ESTATE.boundary"
+    },
+    {
+      "number": "DG-A-201",
+      "title": "Spa pavilions, floor plans",
+      "file": "spa-pavilions.svg",
+      "png": "spa-pavilions@2x.png",
+      "viewBox": "0 0 1600 1000",
+      "registration": "own sheet; 32 units per metre",
+      "source": "footprints measured from v1/spa-plan.jpg at 8.4586 px per metre; interior fit-out indicative",
+      "scale": "graphic, 1 m = 32 units",
+      "measured_footprints_m": {
+        "small_lounge": [7.6, 6.4],
+        "gym": [12.3, 7.4],
+        "yoga_room": [7.6, 11.5],
+        "sauna": [5.3, 6.3],
+        "red_light_room": [5.2, 5.9],
+        "changing_and_showers": { "blocks": [[4.7, 3.5], [4.6, 6.5], [3.3, 5.3]], "open_court_width": 3.9 }
+      }
+    }
+  ]
+}

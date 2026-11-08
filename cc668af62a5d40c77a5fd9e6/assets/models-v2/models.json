@@ -1,0 +1,1069 @@
+{
+ "_about": {
+  "units": "metres",
+  "gltf_axes": "Y up, +X east, -Z north (Blender Z-up export)",
+  "origin": "plan centre (u = W/2, v = H/2) at ground level (y = 0)",
+  "plan_px_to_gltf": "X = (u - W/2) * mpp ; Z = (v - H/2) * mpp ; Y = height in metres",
+  "gltf_to_plan_px": "u = X / mpp + W/2 ; v = Z / mpp + H/2",
+  "top_render": "orthographic straight down; the image spans exactly the plan frame, so image px = plan px * (image_width / W)",
+  "heights": "indicative only (Alentejo single storey ~3.8-4.5 m to the eaves, two storeys 6.5-6.8 m)",
+  "key_nodes": "empties named key-<n> in each GLB, above the building (or at the garden / area) the plan number refers to"
+ },
+ "masterplan": {
+  "files": {
+   "top": "masterplan-3d-top.jpg",
+   "oblique": "masterplan-3d-oblique.jpg",
+   "low1": "masterplan-3d-low1.jpg",
+   "low2": "masterplan-3d-low2.jpg",
+   "glb": "masterplan.glb"
+  },
+  "plan_px": {
+   "width": 1178,
+   "height": 1335,
+   "source": "v1/masterplan.jpg"
+  },
+  "metres_per_px": 0.239234,
+  "extent_m": {
+   "x": 281.818,
+   "z": 319.378
+  },
+  "top_image_px": {
+   "width": 2118,
+   "height": 2400
+  },
+  "camera_oblique": {
+   "position_gltf": [
+    -358.11,
+    424.957,
+    358.11
+   ],
+   "target_gltf": [
+    -32.755,
+    0.0,
+    37.168
+   ],
+   "vertical_fov_deg": 26.99,
+   "lens_mm": 50.0,
+   "aspect": 1.5
+  },
+  "camera_low1": {
+   "position_gltf": [
+    -46.411,
+    40.0,
+    -16.148
+   ],
+   "target_gltf": [
+    -22.904,
+    1.0,
+    -59.77
+   ],
+   "vertical_fov_deg": 43.6,
+   "lens_mm": 30.0,
+   "aspect": 1.5
+  },
+  "camera_low2": {
+   "position_gltf": [
+    -83.493,
+    46.0,
+    -50.837
+   ],
+   "target_gltf": [
+    -14.985,
+    1.0,
+    -59.401
+   ],
+   "vertical_fov_deg": 41.11,
+   "lens_mm": 32.0,
+   "aspect": 1.5
+  },
+  "keys": {
+   "1": {
+    "node": "key-1",
+    "name": "Main entrance",
+    "plan_px": [
+     120,
+     780
+    ],
+    "gltf": [
+     -112.201,
+     2.0,
+     26.914
+    ]
+   },
+   "2": {
+    "node": "key-2",
+    "name": "Main garden",
+    "plan_px": [
+     476,
+     442
+    ],
+    "gltf": [
+     -27.033,
+     2.0,
+     -53.947
+    ]
+   },
+   "3": {
+    "node": "key-3",
+    "name": "Natural area",
+    "plan_px": [
+     340,
+     640
+    ],
+    "gltf": [
+     -59.569,
+     2.0,
+     -6.579
+    ]
+   },
+   "4": {
+    "node": "key-4",
+    "name": "Event salon",
+    "plan_px": [
+     274.7,
+     342.0
+    ],
+    "gltf": [
+     -75.196,
+     8.85,
+     -77.879
+    ]
+   },
+   "5": {
+    "node": "key-5",
+    "name": "Big event salon",
+    "plan_px": [
+     611.7,
+     444.8
+    ],
+    "gltf": [
+     5.432,
+     8.57,
+     -53.268
+    ]
+   },
+   "6": {
+    "node": "key-6",
+    "name": "Owner's house",
+    "plan_px": [
+     813.9,
+     436.9
+    ],
+    "gltf": [
+     53.803,
+     10.38,
+     -55.167
+    ]
+   },
+   "7": {
+    "node": "key-7",
+    "name": "Romantic garden",
+    "plan_px": [
+     790,
+     610
+    ],
+    "gltf": [
+     48.086,
+     2.0,
+     -13.756
+    ]
+   },
+   "8": {
+    "node": "key-8",
+    "name": "Vineyard",
+    "plan_px": [
+     640,
+     90
+    ],
+    "gltf": [
+     12.201,
+     2.0,
+     -138.158
+    ]
+   },
+   "9": {
+    "node": "key-9",
+    "name": "Lobby, restaurant, bar, offices",
+    "plan_px": [
+     155.9,
+     456.3
+    ],
+    "gltf": [
+     -103.617,
+     10.59,
+     -50.526
+    ]
+   },
+   "10": {
+    "node": "key-10",
+    "name": "Housekeeping and security HQ",
+    "plan_px": [
+     239.8,
+     442.8
+    ],
+    "gltf": [
+     -83.546,
+     6.98,
+     -53.751
+    ]
+   },
+   "11": {
+    "node": "key-11",
+    "name": "Natural area",
+    "plan_px": [
+     330,
+     860
+    ],
+    "gltf": [
+     -61.962,
+     2.0,
+     46.053
+    ]
+   },
+   "12": {
+    "node": "key-12",
+    "name": "Villa N1",
+    "plan_px": [
+     1061.0,
+     275.5
+    ],
+    "gltf": [
+     112.919,
+     6.5,
+     -93.78
+    ]
+   },
+   "13": {
+    "node": "key-13",
+    "name": "Secondary garden",
+    "plan_px": [
+     165,
+     345
+    ],
+    "gltf": [
+     -101.435,
+     2.0,
+     -77.153
+    ]
+   }
+  }
+ },
+ "spa": {
+  "files": {
+   "top": "spa-3d-top.jpg",
+   "oblique": "spa-3d-oblique.jpg",
+   "low1": "spa-3d-low1.jpg",
+   "low2": "spa-3d-low2.jpg",
+   "glb": "spa.glb"
+  },
+  "plan_px": {
+   "width": 1232,
+   "height": 1024,
+   "source": "v1/spa-plan.jpg"
+  },
+  "metres_per_px": 0.118223,
+  "extent_m": {
+   "x": 145.651,
+   "z": 121.06
+  },
+  "top_image_px": {
+   "width": 2400,
+   "height": 1995
+  },
+  "camera_oblique": {
+   "position_gltf": [
+    -161.438,
+    191.573,
+    161.438
+   ],
+   "target_gltf": [
+    -15.524,
+    0.0,
+    12.62
+   ],
+   "vertical_fov_deg": 26.99,
+   "lens_mm": 50.0,
+   "aspect": 1.5
+  },
+  "camera_low1": {
+   "position_gltf": [
+    -55.092,
+    40.0,
+    -29.556
+   ],
+   "target_gltf": [
+    -12.121,
+    1.0,
+    -8.883
+   ],
+   "vertical_fov_deg": 37.85,
+   "lens_mm": 35.0,
+   "aspect": 1.5
+  },
+  "camera_low2": {
+   "position_gltf": [
+    -23.172,
+    42.0,
+    36.413
+   ],
+   "target_gltf": [
+    2.401,
+    1.0,
+    -8.92
+   ],
+   "vertical_fov_deg": 41.11,
+   "lens_mm": 32.0,
+   "aspect": 1.5
+  },
+  "keys": {
+   "1": {
+    "node": "key-1",
+    "name": "Arrival and parking",
+    "plan_px": [
+     824,
+     140
+    ],
+    "gltf": [
+     24.59,
+     2.0,
+     -43.979
+    ]
+   },
+   "2": {
+    "node": "key-2",
+    "name": "Small lounge",
+    "plan_px": [
+     745.0,
+     213.0
+    ],
+    "gltf": [
+     15.251,
+     4.7,
+     -35.349
+    ]
+   },
+   "3": {
+    "node": "key-3",
+    "name": "Gym",
+    "plan_px": [
+     542.0,
+     189.5
+    ],
+    "gltf": [
+     -8.748,
+     4.9,
+     -38.127
+    ]
+   },
+   "4": {
+    "node": "key-4",
+    "name": "Yoga room",
+    "plan_px": [
+     330.0,
+     300.5
+    ],
+    "gltf": [
+     -33.812,
+     4.45,
+     -25.004
+    ]
+   },
+   "5": {
+    "node": "key-5",
+    "name": "Yoga terrace",
+    "plan_px": [
+     225,
+     382
+    ],
+    "gltf": [
+     -46.225,
+     2.0,
+     -15.369
+    ]
+   },
+   "6": {
+    "node": "key-6",
+    "name": "Sauna",
+    "plan_px": [
+     455.5,
+     397.5
+    ],
+    "gltf": [
+     -18.975,
+     4.5,
+     -13.537
+    ]
+   },
+   "7": {
+    "node": "key-7",
+    "name": "Red-light room",
+    "plan_px": [
+     551.0,
+     377.0
+    ],
+    "gltf": [
+     -7.684,
+     4.5,
+     -15.96
+    ]
+   },
+   "8": {
+    "node": "key-8",
+    "name": "Changing and showers",
+    "plan_px": [
+     659.5,
+     363.5
+    ],
+    "gltf": [
+     5.143,
+     4.6,
+     -17.556
+    ]
+   },
+   "9": {
+    "node": "key-9",
+    "name": "Heated pool",
+    "plan_px": [
+     685,
+     480
+    ],
+    "gltf": [
+     8.157,
+     2.0,
+     -3.783
+    ]
+   },
+   "10": {
+    "node": "key-10",
+    "name": "Natural reservoir",
+    "plan_px": [
+     655,
+     665
+    ],
+    "gltf": [
+     4.611,
+     -1.0,
+     18.088
+    ]
+   },
+   "12": {
+    "node": "key-12",
+    "name": "Service and technical",
+    "plan_px": [
+     1060.0,
+     289.5
+    ],
+    "gltf": [
+     52.491,
+     4.6,
+     -26.305
+    ]
+   }
+  }
+ },
+ "villa1": {
+  "title": "Villa 1, Monte da Horta",
+  "source": "Architect D1 (plan 1:50), D2 (elevations A=east, B=south; sections 01, 02); survey W2",
+  "files": {
+   "top": "villa1-top.jpg",
+   "oblique": "villa1-dollhouse.jpg",
+   "low1": "villa1-hero.jpg",
+   "low2": "villa1-ext2.jpg",
+   "glb": "villa1.glb",
+   "views": {
+    "top": "villa1-top.jpg",
+    "dollhouse": "villa1-dollhouse.jpg",
+    "hero": "villa1-hero.jpg",
+    "ext2": "villa1-ext2.jpg",
+    "living": "villa1-living.jpg",
+    "bedroom": "villa1-bedroom.jpg",
+    "bath": "villa1-bath.jpg",
+    "elevA": "villa1-elevA.jpg",
+    "elevB": "villa1-elevB.jpg"
+   }
+  },
+  "plan_px": {
+   "width": 3000,
+   "height": 1926,
+   "source": "plans/project-villa1-plan.jpg"
+  },
+  "metres_per_px": 0.013657,
+  "plan_note": "Architect sheet axes are not north-up; positions in gltf are true orientation (+X east, -Z north). Origin = villa centre, floor level 0.",
+  "extent_m": {
+   "x": 60.0,
+   "z": 60.0
+  },
+  "top_image_px": {
+   "width": 2304,
+   "height": 1536
+  },
+  "top_ortho_m": {
+   "width": 40,
+   "centre_gltf": [
+    2.0,
+    0,
+    -8.0
+   ],
+   "north": "right"
+  },
+  "camera_oblique": {
+   "position_gltf": [
+    24.4,
+    40.7,
+    2.7
+   ],
+   "target_gltf": [
+    0.8,
+    0,
+    -6.5
+   ],
+   "vertical_fov_deg": 29.86,
+   "lens_mm": 45,
+   "aspect": 1.5
+  },
+  "camera_low1": {
+   "position_gltf": [
+    21.0,
+    1.6,
+    -6.0
+   ],
+   "target_gltf": [
+    0.0,
+    2.0,
+    -14.0
+   ],
+   "vertical_fov_deg": 49.55,
+   "lens_mm": 26,
+   "aspect": 1.5
+  },
+  "camera_low2": {
+   "position_gltf": [
+    15.0,
+    1.6,
+    20.0
+   ],
+   "target_gltf": [
+    2.0,
+    2.1,
+    3.0
+   ],
+   "vertical_fov_deg": 43.6,
+   "lens_mm": 30,
+   "aspect": 1.5
+  },
+  "keys": {
+   "1": {
+    "node": "key-1",
+    "name": "Bedroom (double, barn door to the porch)",
+    "plan_px_100dpi": [
+     559,
+     1124
+    ],
+    "gltf": [
+     1.854,
+     3.2,
+     6.528
+    ]
+   },
+   "2": {
+    "node": "key-2",
+    "name": "Twin bedroom",
+    "plan_px_100dpi": [
+     1180,
+     772
+    ],
+    "gltf": [
+     -2.616,
+     3.2,
+     -1.359
+    ]
+   },
+   "3": {
+    "node": "key-3",
+    "name": "Living room with fireplace",
+    "plan_px_100dpi": [
+     990,
+     1140
+    ],
+    "gltf": [
+     2.057,
+     3.2,
+     1.054
+    ]
+   },
+   "4": {
+    "node": "key-4",
+    "name": "Dining room",
+    "plan_px_100dpi": [
+     1512,
+     1116
+    ],
+    "gltf": [
+     1.753,
+     3.2,
+     -5.575
+    ]
+   },
+   "5": {
+    "node": "key-5",
+    "name": "Kitchen",
+    "plan_px_100dpi": [
+     1530,
+     800
+    ],
+    "gltf": [
+     -2.261,
+     3.2,
+     -5.804
+    ]
+   },
+   "6": {
+    "node": "key-6",
+    "name": "Bathroom with freestanding tub",
+    "plan_px_100dpi": [
+     720,
+     800
+    ],
+    "gltf": [
+     -2.261,
+     3.2,
+     4.483
+    ]
+   },
+   "7": {
+    "node": "key-7",
+    "name": "Covered lounge (old coop)",
+    "plan_px_100dpi": [
+     2100,
+     870
+    ],
+    "gltf": [
+     -1.372,
+     3.2,
+     -13.043
+    ]
+   },
+   "8": {
+    "node": "key-8",
+    "name": "Pergola porch",
+    "plan_px_100dpi": [
+     1000,
+     1500
+    ],
+    "gltf": [
+     6.629,
+     3.2,
+     0.927
+    ]
+   },
+   "9": {
+    "node": "key-9",
+    "name": "Jacuzzi",
+    "plan_px_100dpi": [
+     2915,
+     1410
+    ],
+    "gltf": [
+     5.486,
+     3.2,
+     -23.393
+    ]
+   }
+  }
+ },
+ "villa2": {
+  "title": "Villa 2, Monte do Forno",
+  "source": "Architect D3 (plan 1:50), D4 (elevations A=west, B=north; sections 01, 02); José María deck image28; survey W3",
+  "files": {
+   "top": "villa2-top.jpg",
+   "oblique": "villa2-dollhouse.jpg",
+   "low1": "villa2-hero.jpg",
+   "low2": "villa2-deck.jpg",
+   "glb": "villa2.glb",
+   "views": {
+    "top": "villa2-top.jpg",
+    "dollhouse": "villa2-dollhouse.jpg",
+    "hero": "villa2-hero.jpg",
+    "terrace": "villa2-terrace.jpg",
+    "deck": "villa2-deck.jpg",
+    "living": "villa2-living.jpg",
+    "bedroom": "villa2-bedroom.jpg",
+    "bath": "villa2-bath.jpg",
+    "elevA": "villa2-elevA.jpg",
+    "elevB": "villa2-elevB.jpg"
+   }
+  },
+  "plan_px": {
+   "width": 3000,
+   "height": 1418,
+   "source": "plans/project-villa2-plan.jpg"
+  },
+  "metres_per_px": 0.013149,
+  "plan_note": "Architect sheet axes are not north-up; positions in gltf are true orientation (+X east, -Z north). Origin = villa centre, floor level 0.",
+  "extent_m": {
+   "x": 60.0,
+   "z": 60.0
+  },
+  "top_image_px": {
+   "width": 2304,
+   "height": 1536
+  },
+  "top_ortho_m": {
+   "width": 38,
+   "centre_gltf": [
+    0.5,
+    0,
+    -3.0
+   ],
+   "north": "left"
+  },
+  "camera_oblique": {
+   "position_gltf": [
+    -23.4,
+    40.7,
+    6.6
+   ],
+   "target_gltf": [
+    0.5,
+    0,
+    -2.0
+   ],
+   "vertical_fov_deg": 29.86,
+   "lens_mm": 45,
+   "aspect": 1.5
+  },
+  "camera_low1": {
+   "position_gltf": [
+    -24.0,
+    1.5,
+    3.0
+   ],
+   "target_gltf": [
+    0.0,
+    1.9,
+    -0.5
+   ],
+   "vertical_fov_deg": 43.6,
+   "lens_mm": 30,
+   "aspect": 1.5
+  },
+  "camera_low2": {
+   "position_gltf": [
+    -11.0,
+    0.3,
+    -21.0
+   ],
+   "target_gltf": [
+    0.0,
+    1.0,
+    -9.0
+   ],
+   "vertical_fov_deg": 49.55,
+   "lens_mm": 26,
+   "aspect": 1.5
+  },
+  "keys": {
+   "1": {
+    "node": "key-1",
+    "name": "Kitchen, dining and living",
+    "plan_px_100dpi": [
+     1700,
+     1250
+    ],
+    "gltf": [
+     -0.838,
+     3.2,
+     -3.493
+    ]
+   },
+   "2": {
+    "node": "key-2",
+    "name": "Bedroom with fireplace",
+    "plan_px_100dpi": [
+     2290,
+     1330
+    ],
+    "gltf": [
+     -1.854,
+     3.2,
+     4.001
+    ]
+   },
+   "3": {
+    "node": "key-3",
+    "name": "Bathroom with twin tubs",
+    "plan_px_100dpi": [
+     2290,
+     990
+    ],
+    "gltf": [
+     2.464,
+     3.2,
+     4.001
+    ]
+   },
+   "4": {
+    "node": "key-4",
+    "name": "Twin showers",
+    "plan_px_100dpi": [
+     2280,
+     730
+    ],
+    "gltf": [
+     5.766,
+     3.2,
+     3.874
+    ]
+   },
+   "5": {
+    "node": "key-5",
+    "name": "North deck, pergola and long table",
+    "plan_px_100dpi": [
+     1180,
+     1100
+    ],
+    "gltf": [
+     1.067,
+     3.2,
+     -10.097
+    ]
+   },
+   "6": {
+    "node": "key-6",
+    "name": "Jacuzzi",
+    "plan_px_100dpi": [
+     520,
+     1090
+    ],
+    "gltf": [
+     1.194,
+     3.2,
+     -18.479
+    ]
+   },
+   "7": {
+    "node": "key-7",
+    "name": "Round bread oven (kept)",
+    "plan_px_100dpi": [
+     2688,
+     950
+    ],
+    "gltf": [
+     2.972,
+     3.2,
+     9.055
+    ]
+   },
+   "8": {
+    "node": "key-8",
+    "name": "Plant room (\"Máquinas\")",
+    "plan_px_100dpi": [
+     2900,
+     1030
+    ],
+    "gltf": [
+     1.956,
+     3.2,
+     11.748
+    ]
+   },
+   "9": {
+    "node": "key-9",
+    "name": "South deck",
+    "plan_px_100dpi": [
+     2760,
+     1400
+    ],
+    "gltf": [
+     -2.743,
+     3.2,
+     9.97
+    ]
+   }
+  }
+ },
+ "villa3": {
+  "title": "Villa 3, Monte da Capela",
+  "source": "Architect D5 (plan 1:50, elevations A=west, B=north, sections 01, 02); survey W4 (bell-gable, cross, finials, south window)",
+  "files": {
+   "top": "villa3-top.jpg",
+   "oblique": "villa3-dollhouse.jpg",
+   "low1": "villa3-hero.jpg",
+   "low2": "villa3-deck.jpg",
+   "glb": "villa3.glb",
+   "views": {
+    "top": "villa3-top.jpg",
+    "dollhouse": "villa3-dollhouse.jpg",
+    "hero": "villa3-hero.jpg",
+    "deck": "villa3-deck.jpg",
+    "living": "villa3-living.jpg",
+    "bedroom": "villa3-bedroom.jpg",
+    "bath": "villa3-bath.jpg",
+    "elevA": "villa3-elevA.jpg",
+    "elevB": "villa3-elevB.jpg"
+   }
+  },
+  "plan_px": {
+   "width": 3000,
+   "height": 2109,
+   "source": "plans/project-villa3-plan.jpg"
+  },
+  "metres_per_px": 0.013327,
+  "plan_note": "Architect sheet axes are not north-up; positions in gltf are true orientation (+X east, -Z north). Origin = villa centre, floor level 0.",
+  "extent_m": {
+   "x": 60.0,
+   "z": 60.0
+  },
+  "top_image_px": {
+   "width": 2304,
+   "height": 1536
+  },
+  "top_ortho_m": {
+   "width": 30,
+   "centre_gltf": [
+    1.0,
+    0,
+    -2.0
+   ],
+   "north": "right"
+  },
+  "camera_oblique": {
+   "position_gltf": [
+    13.7,
+    32.8,
+    -20.3
+   ],
+   "target_gltf": [
+    0.0,
+    0,
+    -2.0
+   ],
+   "vertical_fov_deg": 29.86,
+   "lens_mm": 45,
+   "aspect": 1.5
+  },
+  "camera_low1": {
+   "position_gltf": [
+    -17.0,
+    1.15,
+    -4.2
+   ],
+   "target_gltf": [
+    -4.4,
+    2.75,
+    -0.2
+   ],
+   "vertical_fov_deg": 46.4,
+   "lens_mm": 28,
+   "aspect": 1.5
+  },
+  "camera_low2": {
+   "position_gltf": [
+    6.0,
+    0.4,
+    -16.0
+   ],
+   "target_gltf": [
+    -0.5,
+    1.0,
+    -6.5
+   ],
+   "vertical_fov_deg": 49.55,
+   "lens_mm": 26,
+   "aspect": 1.5
+  },
+  "keys": {
+   "1": {
+    "node": "key-1",
+    "name": "Chapel (kept as a chapel)",
+    "plan_px_100dpi": [
+     700,
+     1500
+    ],
+    "gltf": [
+     0.635,
+     3.2,
+     3.81
+    ]
+   },
+   "2": {
+    "node": "key-2",
+    "name": "Living room with fireplace",
+    "plan_px_100dpi": [
+     1040,
+     1380
+    ],
+    "gltf": [
+     -0.889,
+     3.2,
+     -0.508
+    ]
+   },
+   "3": {
+    "node": "key-3",
+    "name": "Bathroom",
+    "plan_px_100dpi": [
+     1300,
+     1220
+    ],
+    "gltf": [
+     -2.921,
+     3.2,
+     -3.81
+    ]
+   },
+   "4": {
+    "node": "key-4",
+    "name": "Bedroom",
+    "plan_px_100dpi": [
+     1300,
+     1500
+    ],
+    "gltf": [
+     0.635,
+     3.2,
+     -3.81
+    ]
+   },
+   "5": {
+    "node": "key-5",
+    "name": "North deck with outdoor fireplace",
+    "plan_px_100dpi": [
+     1630,
+     1400
+    ],
+    "gltf": [
+     -0.635,
+     3.2,
+     -8.001
+    ]
+   },
+   "6": {
+    "node": "key-6",
+    "name": "Entry court and pergola",
+    "plan_px_100dpi": [
+     1150,
+     1040
+    ],
+    "gltf": [
+     -5.207,
+     3.2,
+     -1.905
+    ]
+   },
+   "7": {
+    "node": "key-7",
+    "name": "Jacuzzi",
+    "plan_px_100dpi": [
+     2055,
+     1736
+    ],
+    "gltf": [
+     3.632,
+     3.2,
+     -13.399
+    ]
+   }
+  }
+ }
+}

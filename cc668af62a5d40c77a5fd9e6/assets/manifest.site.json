@@ -1,0 +1,260 @@
+{
+ "files": {
+  "masterplan": "assets/masterplan-orig-2356.jpg",
+  "spa-plan": "assets/spa-plan-2464.jpg",
+  "spa-hero": "assets/spa-hero-3072.jpg",
+  "prog-pool": "assets/spa-pool-656.jpg",
+  "prog-sauna": "assets/spa-sauna-570.jpg",
+  "prog-redlight": "assets/spa-redlight-496.jpg",
+  "prog-yoga": "assets/spa-yoga-644.jpg",
+  "prog-gym": "assets/spa-gym-674.jpg",
+  "prog-reservoir": "assets/spa-reservoir-836.jpg",
+  "v1/S02_slide6_1": "assets/close-villas-golden-2076.jpg",
+  "v1/S02_slide7_1": "assets/close-centre-golden-1644.jpg",
+  "v1/S02_slide8_2": "assets/close-east-golden-3200.jpg",
+  "v1/S02_slide9_1": "assets/close-west-golden-2038.jpg",
+  "v1/north-close": "assets/close-north-golden-3200.jpg",
+  "estate": "assets/estate-golden-3230.webp"
+ },
+ "lights": {
+  "midday": "assets/estate-midday-3230.webp",
+  "golden": "assets/estate-golden-3230.webp",
+  "dusk": "assets/estate-dusk-3230.webp"
+ },
+ "closeups": [
+  {
+   "id": "close-north",
+   "file": {
+    "midday": "assets/close-north-midday-3200.jpg",
+    "golden": "assets/close-north-golden-3200.jpg",
+    "dusk": "assets/close-north-dusk-3200.jpg"
+   },
+   "x": 677.69,
+   "y": 2.79,
+   "w": 694.41,
+   "h": 325.07
+  },
+  {
+   "id": "close-centre",
+   "file": {
+    "midday": "assets/close-centre-midday-1644.jpg",
+    "golden": "assets/close-centre-golden-1644.jpg",
+    "dusk": "assets/close-centre-dusk-1644.jpg"
+   },
+   "x": 614.93,
+   "y": 174.82,
+   "w": 479.92,
+   "h": 583.85
+  },
+  {
+   "id": "close-east",
+   "file": {
+    "midday": "assets/close-east-midday-3200.jpg",
+    "golden": "assets/close-east-golden-3200.jpg",
+    "dusk": "assets/close-east-dusk-3200.jpg"
+   },
+   "x": 872.29,
+   "y": 360.7,
+   "w": 709.16,
+   "h": 300.06
+  },
+  {
+   "id": "close-west",
+   "file": {
+    "midday": "assets/close-west-midday-2038.jpg",
+    "golden": "assets/close-west-golden-2038.jpg",
+    "dusk": "assets/close-west-dusk-2038.jpg"
+   },
+   "x": 402.69,
+   "y": 423.66,
+   "w": 533.09,
+   "h": 523.15
+  },
+  {
+   "id": "close-villas",
+   "file": {
+    "midday": "assets/close-villas-midday-2076.jpg",
+    "golden": "assets/close-villas-golden-2076.jpg",
+    "dusk": "assets/close-villas-dusk-2076.jpg"
+   },
+   "x": 341.6,
+   "y": 544.74,
+   "w": 445.22,
+   "h": 428.93
+  }
+ ],
+ "boundary": [
+  [
+   1539.4,
+   -109.4
+  ],
+  [
+   1474.5,
+   126.8
+  ],
+  [
+   1409.5,
+   363.0
+  ],
+  [
+   1424.7,
+   456.8
+  ],
+  [
+   1440.6,
+   550.7
+  ],
+  [
+   1505.4,
+   658.4
+  ],
+  [
+   1570.6,
+   765.8
+  ],
+  [
+   1464.8,
+   857.0
+  ],
+  [
+   1359.1,
+   949.5
+  ],
+  [
+   1296.9,
+   954.1
+  ],
+  [
+   1234.6,
+   958.5
+  ],
+  [
+   1175.4,
+   927.0
+  ],
+  [
+   1116.4,
+   896.2
+  ],
+  [
+   1099.7,
+   939.9
+  ],
+  [
+   1083.3,
+   983.5
+  ],
+  [
+   1053.5,
+   981.2
+  ],
+  [
+   1020.0,
+   979.6
+  ],
+  [
+   627.0,
+   980.6
+  ],
+  [
+   598.5,
+   984.0
+  ],
+  [
+   585.1,
+   962.5
+  ],
+  [
+   579.3,
+   949.5
+  ],
+  [
+   573.5,
+   936.6
+  ],
+  [
+   551.5,
+   936.2
+  ],
+  [
+   529.2,
+   936.6
+  ],
+  [
+   502.8,
+   936.4
+  ],
+  [
+   502.7,
+   913.6
+  ],
+  [
+   473.3,
+   913.2
+  ],
+  [
+   465.6,
+   872.2
+  ],
+  [
+   460.9,
+   839.8
+  ],
+  [
+   480.2,
+   806.6
+  ],
+  [
+   447.4,
+   773.2
+  ],
+  [
+   414.2,
+   740.5
+  ],
+  [
+   464.9,
+   699.2
+  ],
+  [
+   513.7,
+   658.3
+  ],
+  [
+   526.3,
+   613.3
+  ],
+  [
+   538.0,
+   568.6
+  ],
+  [
+   600.3,
+   517.4
+  ],
+  [
+   662.0,
+   465.6
+  ],
+  [
+   576.2,
+   398.4
+  ],
+  [
+   489.6,
+   330.0
+  ],
+  [
+   574.2,
+   199.3
+  ],
+  [
+   657.9,
+   67.1
+  ],
+  [
+   653.3,
+   -40.0
+  ]
+ ]
+}

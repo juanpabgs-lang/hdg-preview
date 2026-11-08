@@ -1,0 +1,200 @@
+{
+ "jm-main-exterior": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck",
+  "kind": "vis"
+ },
+ "jm-lobby-bar": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck",
+  "kind": "vis"
+ },
+ "jm-reception-arrival": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck; illustrative",
+  "kind": "vis"
+ },
+ "jm-reception-arrival-dry": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck",
+  "kind": "vis"
+ },
+ "jm-restaurant": {
+  "w": 1152,
+  "h": 1280,
+  "caption": "José María's own visualisation, from his project deck",
+  "kind": "vis"
+ },
+ "jm-restaurant-outside": {
+  "w": 1170,
+  "h": 649,
+  "caption": "José María's own visualisation, from his project deck",
+  "kind": "vis"
+ },
+ "jm-villa3-exterior": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck; trees retouched",
+  "kind": "vis"
+ },
+ "jm-villa2-exterior": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck; trees and sky retouched",
+  "kind": "vis"
+ },
+ "jm-villa2-living": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck",
+  "kind": "vis"
+ },
+ "jm-villa2-bedroom": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck; small clean-ups",
+  "kind": "vis"
+ },
+ "jm-villa2-shower": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck",
+  "kind": "vis"
+ },
+ "jm-villa2-bath": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck; small clean-ups",
+  "kind": "vis"
+ },
+ "jm-villa1-exterior": {
+  "w": 1536,
+  "h": 1024,
+  "caption": "José María's own visualisation, from his project deck; trees and sky retouched",
+  "kind": "vis"
+ },
+ "jm-picnic-utv": {
+  "w": 1170,
+  "h": 1327,
+  "caption": "Photograph of the estate, from José María",
+  "kind": "photo"
+ },
+ "jm-dinner-pergola": {
+  "w": 1170,
+  "h": 1018,
+  "caption": "Photograph of the estate, from José María",
+  "kind": "photo"
+ },
+ "jm-picnic-cork": {
+  "w": 1170,
+  "h": 1449,
+  "caption": "Photograph of the estate, from José María",
+  "kind": "photo"
+ },
+ "jm-balloons": {
+  "w": 1170,
+  "h": 2080,
+  "caption": "Photograph of the estate, from José María",
+  "kind": "photo"
+ },
+ "jm-plan-main": {
+  "w": 1726,
+  "h": 1078,
+  "caption": "José María's project plan: reception, lobby, restaurant and bar",
+  "kind": "plan"
+ },
+ "jm-plan-restaurant": {
+  "w": 1600,
+  "h": 1212,
+  "caption": "José María's project plan: the restaurant, bar and al fresco dining",
+  "kind": "plan"
+ },
+ "jm-plan-villa1": {
+  "w": 2400,
+  "h": 1441,
+  "caption": "José María's project plan: Villa 1",
+  "kind": "plan"
+ },
+ "jm-plan-villa2": {
+  "w": 1600,
+  "h": 927,
+  "caption": "José María's project plan: Villa 2",
+  "kind": "plan"
+ },
+ "jm-plan-villa3": {
+  "w": 1600,
+  "h": 1156,
+  "caption": "José María's project plan: Villa 3",
+  "kind": "plan"
+ },
+ "survey-monte-principal": {
+  "w": 1384,
+  "h": 1309,
+  "caption": "Measured survey of the main house today (Monte principal)",
+  "kind": "plan"
+ },
+ "survey-hall-plan": {
+  "w": 1274,
+  "h": 566,
+  "caption": "Measured survey of the events hall today",
+  "kind": "plan"
+ },
+ "survey-monte-da-horta": {
+  "w": 1813,
+  "h": 1316,
+  "caption": "Measured survey of Monte da Horta today",
+  "kind": "plan"
+ },
+ "survey-monte-do-forno": {
+  "w": 1751,
+  "h": 1248,
+  "caption": "Measured survey of Monte do Forno today",
+  "kind": "plan"
+ },
+ "survey-monte-da-capela": {
+  "w": 1608,
+  "h": 1378,
+  "caption": "Measured survey of Monte da Capela today",
+  "kind": "plan"
+ },
+ "project-villa1-plan": {
+  "w": 3000,
+  "h": 1926,
+  "caption": "Villa 1, ground floor: the architect's project, September 2025",
+  "kind": "plan"
+ },
+ "project-villa1-elev": {
+  "w": 3000,
+  "h": 2179,
+  "caption": "Villa 1, elevations and sections: the architect's project, September 2025",
+  "kind": "plan"
+ },
+ "project-villa2-plan": {
+  "w": 3000,
+  "h": 1418,
+  "caption": "Villa 2, ground floor: the architect's project, September 2025",
+  "kind": "plan"
+ },
+ "project-villa2-elev": {
+  "w": 3000,
+  "h": 2033,
+  "caption": "Villa 2, elevations and sections: the architect's project, September 2025",
+  "kind": "plan"
+ },
+ "project-villa3-plan": {
+  "w": 3000,
+  "h": 2109,
+  "caption": "Villa 3, plan, sections and elevations: the architect's project, September 2025",
+  "kind": "plan"
+ },
+ "survey-main-elev": {
+  "w": 2526,
+  "h": 2400,
+  "caption": "The main house today, its four elevations: professional survey",
+  "kind": "plan"
+ }
+}

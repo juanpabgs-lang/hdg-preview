@@ -1,0 +1,2334 @@
+{
+ "generated": "2026-11-02",
+ "note": "All coordinates are image pixels of the 1x file (estate map: 1615x974). Multiply by 2 for the 2x files.",
+ "files": [
+  {
+   "file": "close-centre-dusk-1644.jpg",
+   "group": "closeup",
+   "width": 1644,
+   "height": 2000,
+   "bytes": 219563,
+   "light": "dusk",
+   "closeup": "close-centre",
+   "scale": "2x"
+  },
+  {
+   "file": "close-centre-dusk-1644.webp",
+   "group": "closeup",
+   "width": 1644,
+   "height": 2000,
+   "bytes": 74748,
+   "light": "dusk",
+   "closeup": "close-centre",
+   "scale": "2x"
+  },
+  {
+   "file": "close-centre-dusk-822.jpg",
+   "group": "closeup",
+   "width": 822,
+   "height": 1000,
+   "bytes": 83041,
+   "light": "dusk",
+   "closeup": "close-centre",
+   "scale": "1x"
+  },
+  {
+   "file": "close-centre-dusk-822.webp",
+   "group": "closeup",
+   "width": 822,
+   "height": 1000,
+   "bytes": 29212,
+   "light": "dusk",
+   "closeup": "close-centre",
+   "scale": "1x"
+  },
+  {
+   "file": "close-centre-golden-1644.jpg",
+   "group": "closeup",
+   "width": 1644,
+   "height": 2000,
+   "bytes": 364382,
+   "light": "golden",
+   "closeup": "close-centre",
+   "scale": "2x"
+  },
+  {
+   "file": "close-centre-golden-1644.webp",
+   "group": "closeup",
+   "width": 1644,
+   "height": 2000,
+   "bytes": 150380,
+   "light": "golden",
+   "closeup": "close-centre",
+   "scale": "2x"
+  },
+  {
+   "file": "close-centre-golden-822.jpg",
+   "group": "closeup",
+   "width": 822,
+   "height": 1000,
+   "bytes": 143464,
+   "light": "golden",
+   "closeup": "close-centre",
+   "scale": "1x"
+  },
+  {
+   "file": "close-centre-golden-822.webp",
+   "group": "closeup",
+   "width": 822,
+   "height": 1000,
+   "bytes": 67170,
+   "light": "golden",
+   "closeup": "close-centre",
+   "scale": "1x"
+  },
+  {
+   "file": "close-centre-midday-1644.jpg",
+   "group": "closeup",
+   "width": 1644,
+   "height": 2000,
+   "bytes": 382806,
+   "light": "midday",
+   "closeup": "close-centre",
+   "scale": "2x"
+  },
+  {
+   "file": "close-centre-midday-1644.webp",
+   "group": "closeup",
+   "width": 1644,
+   "height": 2000,
+   "bytes": 158918,
+   "light": "midday",
+   "closeup": "close-centre",
+   "scale": "2x"
+  },
+  {
+   "file": "close-centre-midday-822.jpg",
+   "group": "closeup",
+   "width": 822,
+   "height": 1000,
+   "bytes": 147345,
+   "light": "midday",
+   "closeup": "close-centre",
+   "scale": "1x"
+  },
+  {
+   "file": "close-centre-midday-822.webp",
+   "group": "closeup",
+   "width": 822,
+   "height": 1000,
+   "bytes": 71254,
+   "light": "midday",
+   "closeup": "close-centre",
+   "scale": "1x"
+  },
+  {
+   "file": "close-east-dusk-1600.jpg",
+   "group": "closeup",
+   "width": 1600,
+   "height": 677,
+   "bytes": 110803,
+   "light": "dusk",
+   "closeup": "close-east",
+   "scale": "1x"
+  },
+  {
+   "file": "close-east-dusk-1600.webp",
+   "group": "closeup",
+   "width": 1600,
+   "height": 677,
+   "bytes": 42398,
+   "light": "dusk",
+   "closeup": "close-east",
+   "scale": "1x"
+  },
+  {
+   "file": "close-east-dusk-3200.jpg",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1354,
+   "bytes": 292061,
+   "light": "dusk",
+   "closeup": "close-east",
+   "scale": "2x"
+  },
+  {
+   "file": "close-east-dusk-3200.webp",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1354,
+   "bytes": 99598,
+   "light": "dusk",
+   "closeup": "close-east",
+   "scale": "2x"
+  },
+  {
+   "file": "close-east-golden-1600.jpg",
+   "group": "closeup",
+   "width": 1600,
+   "height": 677,
+   "bytes": 182112,
+   "light": "golden",
+   "closeup": "close-east",
+   "scale": "1x"
+  },
+  {
+   "file": "close-east-golden-1600.webp",
+   "group": "closeup",
+   "width": 1600,
+   "height": 677,
+   "bytes": 86064,
+   "light": "golden",
+   "closeup": "close-east",
+   "scale": "1x"
+  },
+  {
+   "file": "close-east-golden-3200.jpg",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1354,
+   "bytes": 457809,
+   "light": "golden",
+   "closeup": "close-east",
+   "scale": "2x"
+  },
+  {
+   "file": "close-east-golden-3200.webp",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1354,
+   "bytes": 197008,
+   "light": "golden",
+   "closeup": "close-east",
+   "scale": "2x"
+  },
+  {
+   "file": "close-east-midday-1600.jpg",
+   "group": "closeup",
+   "width": 1600,
+   "height": 677,
+   "bytes": 191635,
+   "light": "midday",
+   "closeup": "close-east",
+   "scale": "1x"
+  },
+  {
+   "file": "close-east-midday-1600.webp",
+   "group": "closeup",
+   "width": 1600,
+   "height": 677,
+   "bytes": 96002,
+   "light": "midday",
+   "closeup": "close-east",
+   "scale": "1x"
+  },
+  {
+   "file": "close-east-midday-3200.jpg",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1354,
+   "bytes": 497203,
+   "light": "midday",
+   "closeup": "close-east",
+   "scale": "2x"
+  },
+  {
+   "file": "close-east-midday-3200.webp",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1354,
+   "bytes": 219660,
+   "light": "midday",
+   "closeup": "close-east",
+   "scale": "2x"
+  },
+  {
+   "file": "close-north-dusk-1600.jpg",
+   "group": "closeup",
+   "width": 1600,
+   "height": 749,
+   "bytes": 107382,
+   "light": "dusk",
+   "closeup": "close-north",
+   "scale": "1x"
+  },
+  {
+   "file": "close-north-dusk-1600.webp",
+   "group": "closeup",
+   "width": 1600,
+   "height": 749,
+   "bytes": 39244,
+   "light": "dusk",
+   "closeup": "close-north",
+   "scale": "1x"
+  },
+  {
+   "file": "close-north-dusk-3200.jpg",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1498,
+   "bytes": 285492,
+   "light": "dusk",
+   "closeup": "close-north",
+   "scale": "2x"
+  },
+  {
+   "file": "close-north-dusk-3200.webp",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1498,
+   "bytes": 94976,
+   "light": "dusk",
+   "closeup": "close-north",
+   "scale": "2x"
+  },
+  {
+   "file": "close-north-golden-1600.jpg",
+   "group": "closeup",
+   "width": 1600,
+   "height": 749,
+   "bytes": 182780,
+   "light": "golden",
+   "closeup": "close-north",
+   "scale": "1x"
+  },
+  {
+   "file": "close-north-golden-1600.webp",
+   "group": "closeup",
+   "width": 1600,
+   "height": 749,
+   "bytes": 80888,
+   "light": "golden",
+   "closeup": "close-north",
+   "scale": "1x"
+  },
+  {
+   "file": "close-north-golden-3200.jpg",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1498,
+   "bytes": 468572,
+   "light": "golden",
+   "closeup": "close-north",
+   "scale": "2x"
+  },
+  {
+   "file": "close-north-golden-3200.webp",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1498,
+   "bytes": 193986,
+   "light": "golden",
+   "closeup": "close-north",
+   "scale": "2x"
+  },
+  {
+   "file": "close-north-midday-1600.jpg",
+   "group": "closeup",
+   "width": 1600,
+   "height": 749,
+   "bytes": 186327,
+   "light": "midday",
+   "closeup": "close-north",
+   "scale": "1x"
+  },
+  {
+   "file": "close-north-midday-1600.webp",
+   "group": "closeup",
+   "width": 1600,
+   "height": 749,
+   "bytes": 84006,
+   "light": "midday",
+   "closeup": "close-north",
+   "scale": "1x"
+  },
+  {
+   "file": "close-north-midday-3200.jpg",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1498,
+   "bytes": 487894,
+   "light": "midday",
+   "closeup": "close-north",
+   "scale": "2x"
+  },
+  {
+   "file": "close-north-midday-3200.webp",
+   "group": "closeup",
+   "width": 3200,
+   "height": 1498,
+   "bytes": 205714,
+   "light": "midday",
+   "closeup": "close-north",
+   "scale": "2x"
+  },
+  {
+   "file": "close-villas-dusk-1038.jpg",
+   "group": "closeup",
+   "width": 1038,
+   "height": 1000,
+   "bytes": 114965,
+   "light": "dusk",
+   "closeup": "close-villas",
+   "scale": "1x"
+  },
+  {
+   "file": "close-villas-dusk-1038.webp",
+   "group": "closeup",
+   "width": 1038,
+   "height": 1000,
+   "bytes": 45656,
+   "light": "dusk",
+   "closeup": "close-villas",
+   "scale": "1x"
+  },
+  {
+   "file": "close-villas-dusk-2076.jpg",
+   "group": "closeup",
+   "width": 2076,
+   "height": 2000,
+   "bytes": 306261,
+   "light": "dusk",
+   "closeup": "close-villas",
+   "scale": "2x"
+  },
+  {
+   "file": "close-villas-dusk-2076.webp",
+   "group": "closeup",
+   "width": 2076,
+   "height": 2000,
+   "bytes": 113400,
+   "light": "dusk",
+   "closeup": "close-villas",
+   "scale": "2x"
+  },
+  {
+   "file": "close-villas-golden-1038.jpg",
+   "group": "closeup",
+   "width": 1038,
+   "height": 1000,
+   "bytes": 181916,
+   "light": "golden",
+   "closeup": "close-villas",
+   "scale": "1x"
+  },
+  {
+   "file": "close-villas-golden-1038.webp",
+   "group": "closeup",
+   "width": 1038,
+   "height": 1000,
+   "bytes": 87594,
+   "light": "golden",
+   "closeup": "close-villas",
+   "scale": "1x"
+  },
+  {
+   "file": "close-villas-golden-2076.jpg",
+   "group": "closeup",
+   "width": 2076,
+   "height": 2000,
+   "bytes": 474265,
+   "light": "golden",
+   "closeup": "close-villas",
+   "scale": "2x"
+  },
+  {
+   "file": "close-villas-golden-2076.webp",
+   "group": "closeup",
+   "width": 2076,
+   "height": 2000,
+   "bytes": 206398,
+   "light": "golden",
+   "closeup": "close-villas",
+   "scale": "2x"
+  },
+  {
+   "file": "close-villas-midday-1038.jpg",
+   "group": "closeup",
+   "width": 1038,
+   "height": 1000,
+   "bytes": 191702,
+   "light": "midday",
+   "closeup": "close-villas",
+   "scale": "1x"
+  },
+  {
+   "file": "close-villas-midday-1038.webp",
+   "group": "closeup",
+   "width": 1038,
+   "height": 1000,
+   "bytes": 98730,
+   "light": "midday",
+   "closeup": "close-villas",
+   "scale": "1x"
+  },
+  {
+   "file": "close-villas-midday-2076.jpg",
+   "group": "closeup",
+   "width": 2076,
+   "height": 2000,
+   "bytes": 514198,
+   "light": "midday",
+   "closeup": "close-villas",
+   "scale": "2x"
+  },
+  {
+   "file": "close-villas-midday-2076.webp",
+   "group": "closeup",
+   "width": 2076,
+   "height": 2000,
+   "bytes": 226716,
+   "light": "midday",
+   "closeup": "close-villas",
+   "scale": "2x"
+  },
+  {
+   "file": "close-west-dusk-1019.jpg",
+   "group": "closeup",
+   "width": 1019,
+   "height": 1000,
+   "bytes": 118318,
+   "light": "dusk",
+   "closeup": "close-west",
+   "scale": "1x"
+  },
+  {
+   "file": "close-west-dusk-1019.webp",
+   "group": "closeup",
+   "width": 1019,
+   "height": 1000,
+   "bytes": 45630,
+   "light": "dusk",
+   "closeup": "close-west",
+   "scale": "1x"
+  },
+  {
+   "file": "close-west-dusk-2038.jpg",
+   "group": "closeup",
+   "width": 2038,
+   "height": 2000,
+   "bytes": 315162,
+   "light": "dusk",
+   "closeup": "close-west",
+   "scale": "2x"
+  },
+  {
+   "file": "close-west-dusk-2038.webp",
+   "group": "closeup",
+   "width": 2038,
+   "height": 2000,
+   "bytes": 117510,
+   "light": "dusk",
+   "closeup": "close-west",
+   "scale": "2x"
+  },
+  {
+   "file": "close-west-golden-1019.jpg",
+   "group": "closeup",
+   "width": 1019,
+   "height": 1000,
+   "bytes": 191981,
+   "light": "golden",
+   "closeup": "close-west",
+   "scale": "1x"
+  },
+  {
+   "file": "close-west-golden-1019.webp",
+   "group": "closeup",
+   "width": 1019,
+   "height": 1000,
+   "bytes": 95720,
+   "light": "golden",
+   "closeup": "close-west",
+   "scale": "1x"
+  },
+  {
+   "file": "close-west-golden-2038.jpg",
+   "group": "closeup",
+   "width": 2038,
+   "height": 2000,
+   "bytes": 498329,
+   "light": "golden",
+   "closeup": "close-west",
+   "scale": "2x"
+  },
+  {
+   "file": "close-west-golden-2038.webp",
+   "group": "closeup",
+   "width": 2038,
+   "height": 2000,
+   "bytes": 218936,
+   "light": "golden",
+   "closeup": "close-west",
+   "scale": "2x"
+  },
+  {
+   "file": "close-west-midday-1019.jpg",
+   "group": "closeup",
+   "width": 1019,
+   "height": 1000,
+   "bytes": 201675,
+   "light": "midday",
+   "closeup": "close-west",
+   "scale": "1x"
+  },
+  {
+   "file": "close-west-midday-1019.webp",
+   "group": "closeup",
+   "width": 1019,
+   "height": 1000,
+   "bytes": 106308,
+   "light": "midday",
+   "closeup": "close-west",
+   "scale": "1x"
+  },
+  {
+   "file": "close-west-midday-2038.jpg",
+   "group": "closeup",
+   "width": 2038,
+   "height": 2000,
+   "bytes": 533343,
+   "light": "midday",
+   "closeup": "close-west",
+   "scale": "2x"
+  },
+  {
+   "file": "close-west-midday-2038.webp",
+   "group": "closeup",
+   "width": 2038,
+   "height": 2000,
+   "bytes": 240406,
+   "light": "midday",
+   "closeup": "close-west",
+   "scale": "2x"
+  },
+  {
+   "file": "estate-dusk-1615.jpg",
+   "group": "estate",
+   "width": 1615,
+   "height": 974,
+   "bytes": 232346,
+   "light": "dusk",
+   "scale": "1x"
+  },
+  {
+   "file": "estate-dusk-1615.webp",
+   "group": "estate",
+   "width": 1615,
+   "height": 974,
+   "bytes": 101510,
+   "light": "dusk",
+   "scale": "1x"
+  },
+  {
+   "file": "estate-dusk-3230.jpg",
+   "group": "estate",
+   "width": 3230,
+   "height": 1948,
+   "bytes": 677994,
+   "light": "dusk",
+   "scale": "2x"
+  },
+  {
+   "file": "estate-dusk-3230.webp",
+   "group": "estate",
+   "width": 3230,
+   "height": 1948,
+   "bytes": 251650,
+   "light": "dusk",
+   "scale": "2x"
+  },
+  {
+   "file": "estate-golden-1615.jpg",
+   "group": "estate",
+   "width": 1615,
+   "height": 974,
+   "bytes": 376499,
+   "light": "golden",
+   "scale": "1x"
+  },
+  {
+   "file": "estate-golden-1615.webp",
+   "group": "estate",
+   "width": 1615,
+   "height": 974,
+   "bytes": 231306,
+   "light": "golden",
+   "scale": "1x"
+  },
+  {
+   "file": "estate-golden-3230.jpg",
+   "group": "estate",
+   "width": 3230,
+   "height": 1948,
+   "bytes": 1075010,
+   "light": "golden",
+   "scale": "2x"
+  },
+  {
+   "file": "estate-golden-3230.webp",
+   "group": "estate",
+   "width": 3230,
+   "height": 1948,
+   "bytes": 519804,
+   "light": "golden",
+   "scale": "2x"
+  },
+  {
+   "file": "estate-midday-1615.jpg",
+   "group": "estate",
+   "width": 1615,
+   "height": 974,
+   "bytes": 411565,
+   "light": "midday",
+   "scale": "1x"
+  },
+  {
+   "file": "estate-midday-1615.webp",
+   "group": "estate",
+   "width": 1615,
+   "height": 974,
+   "bytes": 267022,
+   "light": "midday",
+   "scale": "1x"
+  },
+  {
+   "file": "estate-midday-3230.jpg",
+   "group": "estate",
+   "width": 3230,
+   "height": 1948,
+   "bytes": 1164958,
+   "light": "midday",
+   "scale": "2x"
+  },
+  {
+   "file": "estate-midday-3230.webp",
+   "group": "estate",
+   "width": 3230,
+   "height": 1948,
+   "bytes": 593924,
+   "light": "midday",
+   "scale": "2x"
+  },
+  {
+   "file": "masterplan-clean-1178.jpg",
+   "group": "masterplan",
+   "width": 1178,
+   "height": 1335,
+   "bytes": 710041,
+   "scale": "1x"
+  },
+  {
+   "file": "masterplan-clean-1178.webp",
+   "group": "masterplan",
+   "width": 1178,
+   "height": 1335,
+   "bytes": 433512,
+   "scale": "1x"
+  },
+  {
+   "file": "masterplan-clean-2356.jpg",
+   "group": "masterplan",
+   "width": 2356,
+   "height": 2670,
+   "bytes": 1978068,
+   "scale": "2x"
+  },
+  {
+   "file": "masterplan-clean-2356.webp",
+   "group": "masterplan",
+   "width": 2356,
+   "height": 2670,
+   "bytes": 962210,
+   "scale": "2x"
+  },
+  {
+   "file": "spa-plan-1232.jpg",
+   "group": "spa-plan",
+   "width": 1232,
+   "height": 1024,
+   "bytes": 587822,
+   "scale": "1x"
+  },
+  {
+   "file": "spa-plan-1232.webp",
+   "group": "spa-plan",
+   "width": 1232,
+   "height": 1024,
+   "bytes": 387594,
+   "scale": "1x"
+  },
+  {
+   "file": "spa-plan-2464.jpg",
+   "group": "spa-plan",
+   "width": 2464,
+   "height": 2048,
+   "bytes": 1714805,
+   "scale": "2x"
+  },
+  {
+   "file": "spa-plan-2464.webp",
+   "group": "spa-plan",
+   "width": 2464,
+   "height": 2048,
+   "bytes": 931482,
+   "scale": "2x"
+  },
+  {
+   "file": "spa-gym-337.jpg",
+   "group": "spa-render",
+   "width": 337,
+   "height": 149,
+   "bytes": 18727,
+   "source_box": [
+    1199,
+    589,
+    1536,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-gym-337.webp",
+   "group": "spa-render",
+   "width": 337,
+   "height": 149,
+   "bytes": 13462,
+   "source_box": [
+    1199,
+    589,
+    1536,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-gym-674.jpg",
+   "group": "spa-render",
+   "width": 674,
+   "height": 298,
+   "bytes": 49807,
+   "source_box": [
+    1199,
+    589,
+    1536,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-gym-674.webp",
+   "group": "spa-render",
+   "width": 674,
+   "height": 298,
+   "bytes": 29982,
+   "source_box": [
+    1199,
+    589,
+    1536,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-hero-1536.jpg",
+   "group": "spa-render",
+   "width": 1536,
+   "height": 584,
+   "bytes": 290279,
+   "source_box": [
+    0,
+    0,
+    1536,
+    584
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-hero-1536.webp",
+   "group": "spa-render",
+   "width": 1536,
+   "height": 584,
+   "bytes": 238578,
+   "source_box": [
+    0,
+    0,
+    1536,
+    584
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-hero-3072.jpg",
+   "group": "spa-render",
+   "width": 3072,
+   "height": 1168,
+   "bytes": 932960,
+   "source_box": [
+    0,
+    0,
+    1536,
+    584
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-hero-3072.webp",
+   "group": "spa-render",
+   "width": 3072,
+   "height": 1168,
+   "bytes": 696242,
+   "source_box": [
+    0,
+    0,
+    1536,
+    584
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-integration-319.jpg",
+   "group": "spa-render",
+   "width": 319,
+   "height": 187,
+   "bytes": 23261,
+   "source_box": [
+    770,
+    786,
+    1089,
+    973
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-integration-319.webp",
+   "group": "spa-render",
+   "width": 319,
+   "height": 187,
+   "bytes": 18736,
+   "source_box": [
+    770,
+    786,
+    1089,
+    973
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-integration-638.jpg",
+   "group": "spa-render",
+   "width": 638,
+   "height": 374,
+   "bytes": 62712,
+   "source_box": [
+    770,
+    786,
+    1089,
+    973
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-integration-638.webp",
+   "group": "spa-render",
+   "width": 638,
+   "height": 374,
+   "bytes": 43162,
+   "source_box": [
+    770,
+    786,
+    1089,
+    973
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-pool-328.jpg",
+   "group": "spa-render",
+   "width": 328,
+   "height": 149,
+   "bytes": 16205,
+   "source_box": [
+    0,
+    589,
+    328,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-pool-328.webp",
+   "group": "spa-render",
+   "width": 328,
+   "height": 149,
+   "bytes": 11402,
+   "source_box": [
+    0,
+    589,
+    328,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-pool-656.jpg",
+   "group": "spa-render",
+   "width": 656,
+   "height": 298,
+   "bytes": 44179,
+   "source_box": [
+    0,
+    589,
+    328,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-pool-656.webp",
+   "group": "spa-render",
+   "width": 656,
+   "height": 298,
+   "bytes": 24974,
+   "source_box": [
+    0,
+    589,
+    328,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-redlight-248.jpg",
+   "group": "spa-render",
+   "width": 248,
+   "height": 149,
+   "bytes": 8130,
+   "source_box": [
+    621,
+    589,
+    869,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-redlight-248.webp",
+   "group": "spa-render",
+   "width": 248,
+   "height": 149,
+   "bytes": 3912,
+   "source_box": [
+    621,
+    589,
+    869,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-redlight-496.jpg",
+   "group": "spa-render",
+   "width": 496,
+   "height": 298,
+   "bytes": 21679,
+   "source_box": [
+    621,
+    589,
+    869,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-redlight-496.webp",
+   "group": "spa-render",
+   "width": 496,
+   "height": 298,
+   "bytes": 9280,
+   "source_box": [
+    621,
+    589,
+    869,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-reservoir-418.jpg",
+   "group": "spa-render",
+   "width": 418,
+   "height": 187,
+   "bytes": 31341,
+   "source_box": [
+    0,
+    786,
+    418,
+    973
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-reservoir-418.webp",
+   "group": "spa-render",
+   "width": 418,
+   "height": 187,
+   "bytes": 25314,
+   "source_box": [
+    0,
+    786,
+    418,
+    973
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-reservoir-836.jpg",
+   "group": "spa-render",
+   "width": 836,
+   "height": 374,
+   "bytes": 84356,
+   "source_box": [
+    0,
+    786,
+    418,
+    973
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-reservoir-836.webp",
+   "group": "spa-render",
+   "width": 836,
+   "height": 374,
+   "bytes": 58856,
+   "source_box": [
+    0,
+    786,
+    418,
+    973
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-sauna-285.jpg",
+   "group": "spa-render",
+   "width": 285,
+   "height": 149,
+   "bytes": 9414,
+   "source_box": [
+    332,
+    589,
+    617,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-sauna-285.webp",
+   "group": "spa-render",
+   "width": 285,
+   "height": 149,
+   "bytes": 4332,
+   "source_box": [
+    332,
+    589,
+    617,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-sauna-570.jpg",
+   "group": "spa-render",
+   "width": 570,
+   "height": 298,
+   "bytes": 26879,
+   "source_box": [
+    332,
+    589,
+    617,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-sauna-570.webp",
+   "group": "spa-render",
+   "width": 570,
+   "height": 298,
+   "bytes": 9900,
+   "source_box": [
+    332,
+    589,
+    617,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-yoga-322.jpg",
+   "group": "spa-render",
+   "width": 322,
+   "height": 149,
+   "bytes": 15711,
+   "source_box": [
+    874,
+    589,
+    1196,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-yoga-322.webp",
+   "group": "spa-render",
+   "width": 322,
+   "height": 149,
+   "bytes": 10372,
+   "source_box": [
+    874,
+    589,
+    1196,
+    738
+   ],
+   "scale": "1x"
+  },
+  {
+   "file": "spa-yoga-644.jpg",
+   "group": "spa-render",
+   "width": 644,
+   "height": 298,
+   "bytes": 42121,
+   "source_box": [
+    874,
+    589,
+    1196,
+    738
+   ],
+   "scale": "2x"
+  },
+  {
+   "file": "spa-yoga-644.webp",
+   "group": "spa-render",
+   "width": 644,
+   "height": 298,
+   "bytes": 22920,
+   "source_box": [
+    874,
+    589,
+    1196,
+    738
+   ],
+   "scale": "2x"
+  }
+ ],
+ "estate": {
+  "width": 1615,
+  "height": 974,
+  "base": "Estate Distribution Plan Map.png, labels/leaders/dots/title/boundary removed; translucent estate overlay kept",
+  "lights": {
+   "midday": "neutral, slightly crisp",
+   "golden": "warm low sun from the upper left, slightly darker and muted outside the estate",
+   "dusk": "deep blue-violet, darker; warm accents on roofs/brightest surfaces and a faint afterglow upper left"
+  },
+  "boundary": {
+   "vertices": [
+    {
+     "x": 1539.44,
+     "y": -109.39,
+     "handle": "vertex",
+     "off_image": true,
+     "note": "off-image (top), extrapolated from the midpoint handle"
+    },
+    {
+     "x": 1474.48,
+     "y": 126.81,
+     "handle": "midpoint"
+    },
+    {
+     "x": 1409.52,
+     "y": 363.01,
+     "handle": "vertex"
+    },
+    {
+     "x": 1424.68,
+     "y": 456.75,
+     "handle": "midpoint"
+    },
+    {
+     "x": 1440.56,
+     "y": 550.66,
+     "handle": "vertex"
+    },
+    {
+     "x": 1505.38,
+     "y": 658.42,
+     "handle": "midpoint"
+    },
+    {
+     "x": 1570.62,
+     "y": 765.78,
+     "handle": "vertex"
+    },
+    {
+     "x": 1464.85,
+     "y": 856.97,
+     "handle": "midpoint"
+    },
+    {
+     "x": 1359.13,
+     "y": 949.52,
+     "handle": "vertex"
+    },
+    {
+     "x": 1296.93,
+     "y": 954.06,
+     "handle": "midpoint"
+    },
+    {
+     "x": 1234.6,
+     "y": 958.49,
+     "handle": "vertex"
+    },
+    {
+     "x": 1175.43,
+     "y": 927.0,
+     "handle": "midpoint"
+    },
+    {
+     "x": 1116.37,
+     "y": 896.25,
+     "handle": "vertex"
+    },
+    {
+     "x": 1099.7,
+     "y": 939.86,
+     "handle": "midpoint"
+    },
+    {
+     "x": 1083.3,
+     "y": 983.5,
+     "handle": "vertex",
+     "off_image": true,
+     "note": "centre below image edge (arc fit)"
+    },
+    {
+     "x": 1053.5,
+     "y": 981.2,
+     "handle": "midpoint",
+     "off_image": true,
+     "note": "centre below image edge (arc fit)"
+    },
+    {
+     "x": 1020.0,
+     "y": 979.6,
+     "handle": "vertex",
+     "off_image": true,
+     "note": "centre below image edge (arc fit)"
+    },
+    {
+     "x": 627.0,
+     "y": 980.6,
+     "handle": "vertex",
+     "off_image": true,
+     "note": "centre below image edge (arc fit); boundary runs below the image between x~1020 and x~627"
+    },
+    {
+     "x": 598.5,
+     "y": 984.0,
+     "handle": "vertex",
+     "off_image": true,
+     "note": "centre below image edge (arc fit)"
+    },
+    {
+     "x": 585.13,
+     "y": 962.53,
+     "handle": "vertex"
+    },
+    {
+     "x": 579.3,
+     "y": 949.5,
+     "handle": "midpoint",
+     "note": "hidden under neighbours (midpoint)"
+    },
+    {
+     "x": 573.54,
+     "y": 936.56,
+     "handle": "vertex"
+    },
+    {
+     "x": 551.5,
+     "y": 936.18,
+     "handle": "midpoint"
+    },
+    {
+     "x": 529.2,
+     "y": 936.63,
+     "handle": "vertex"
+    },
+    {
+     "x": 502.77,
+     "y": 936.41,
+     "handle": "vertex"
+    },
+    {
+     "x": 502.72,
+     "y": 913.6,
+     "handle": "vertex"
+    },
+    {
+     "x": 473.27,
+     "y": 913.2,
+     "handle": "vertex"
+    },
+    {
+     "x": 465.64,
+     "y": 872.17,
+     "handle": "midpoint"
+    },
+    {
+     "x": 460.92,
+     "y": 839.76,
+     "handle": "midpoint",
+     "note": "under the Main Buildings label dot"
+    },
+    {
+     "x": 480.16,
+     "y": 806.58,
+     "handle": "vertex"
+    },
+    {
+     "x": 447.38,
+     "y": 773.19,
+     "handle": "midpoint"
+    },
+    {
+     "x": 414.23,
+     "y": 740.52,
+     "handle": "vertex"
+    },
+    {
+     "x": 464.86,
+     "y": 699.22,
+     "handle": "midpoint"
+    },
+    {
+     "x": 513.72,
+     "y": 658.28,
+     "handle": "vertex"
+    },
+    {
+     "x": 526.34,
+     "y": 613.3,
+     "handle": "midpoint"
+    },
+    {
+     "x": 538.03,
+     "y": 568.65,
+     "handle": "vertex"
+    },
+    {
+     "x": 600.31,
+     "y": 517.41,
+     "handle": "midpoint"
+    },
+    {
+     "x": 661.97,
+     "y": 465.56,
+     "handle": "vertex"
+    },
+    {
+     "x": 576.21,
+     "y": 398.44,
+     "handle": "midpoint"
+    },
+    {
+     "x": 489.57,
+     "y": 329.99,
+     "handle": "vertex"
+    },
+    {
+     "x": 574.17,
+     "y": 199.26,
+     "handle": "midpoint"
+    },
+    {
+     "x": 657.85,
+     "y": 67.11,
+     "handle": "vertex"
+    },
+    {
+     "x": 653.31,
+     "y": -40.0,
+     "handle": "vertex",
+     "off_image": true,
+     "note": "off-image (top), extrapolated along the visible line"
+    }
+   ],
+   "closed": true,
+   "line_note": "Polygon through the handle centres of the original gold line; \"midpoint\" handles lie on the straight segments. Clip the SVG to the image.",
+   "runs_off_image": [
+    {
+     "edge": "top",
+     "x": 1509.4,
+     "y": 0,
+     "segment": [
+      0,
+      1
+     ]
+    },
+    {
+     "edge": "bottom",
+     "x": 1086.9,
+     "y": 974,
+     "segment": [
+      13,
+      14
+     ]
+    },
+    {
+     "edge": "bottom",
+     "x": 592.3,
+     "y": 974,
+     "segment": [
+      18,
+      19
+     ]
+    },
+    {
+     "edge": "top",
+     "x": 655.0,
+     "y": 0,
+     "segment": [
+      41,
+      42
+     ]
+    }
+   ],
+   "off_image_notes": [
+    "Top: the north-east side leaves the image near x~1505 and the north-west side near x~655; the closing segment between them is above the image (not visible).",
+    "Bottom: between x~1020 and x~627 the line runs just below the image edge (handle centres y~980-984 estimated from partial arcs); drawn as a straight segment."
+   ]
+  },
+  "baked_labels": [
+   {
+    "name": "Spa / Wellness",
+    "dot": [
+     1064.7,
+     116.36
+    ],
+    "box": [
+     1137,
+     58,
+     1297,
+     91
+    ]
+   },
+   {
+    "name": "Water Reservoir",
+    "dot": [
+     1073.0,
+     143.11
+    ],
+    "box": [
+     1140,
+     114,
+     1309,
+     147
+    ]
+   },
+   {
+    "name": "Villa 5",
+    "dot": [
+     753.13,
+     220.05
+    ],
+    "box": [
+     798,
+     175,
+     879,
+     207
+    ]
+   },
+   {
+    "name": "Cork Trees (north)",
+    "dot": [
+     979.66,
+     400.47
+    ],
+    "box": [
+     1019,
+     344,
+     1139,
+     377
+    ]
+   },
+   {
+    "name": "Vineyard",
+    "dot": [
+     575.07,
+     484.04
+    ],
+    "box": [
+     447,
+     447,
+     542,
+     479
+    ]
+   },
+   {
+    "name": "Equestrian Facility",
+    "dot": [
+     718.7,
+     527.44
+    ],
+    "box": [
+     770,
+     462,
+     959,
+     495
+    ]
+   },
+   {
+    "name": "Cork Trees (east)",
+    "dot": [
+     1254.74,
+     575.99
+    ],
+    "box": [
+     1294,
+     521,
+     1411,
+     554
+    ]
+   },
+   {
+    "name": "Villa 4",
+    "dot": [
+     900.53,
+     672.79
+    ],
+    "box": [
+     942,
+     616,
+     1023,
+     649
+    ]
+   },
+   {
+    "name": "Villa 1",
+    "dot": [
+     549.68,
+     791.48
+    ],
+    "box": [
+     587,
+     740,
+     663,
+     772
+    ]
+   },
+   {
+    "name": "Villa 2",
+    "dot": [
+     673.5,
+     791.5
+    ],
+    "box": [
+     714,
+     735,
+     792,
+     768
+    ]
+   },
+   {
+    "name": "Main Buildings",
+    "dot": [
+     457.35,
+     842.55
+    ],
+    "box": [
+     256,
+     791,
+     413,
+     823
+    ]
+   },
+   {
+    "name": "Villa 3",
+    "dot": [
+     587.48,
+     889.53
+    ],
+    "box": [
+     625,
+     851,
+     702,
+     883
+    ]
+   },
+   {
+    "name": "Millenary",
+    "dot": [
+     756.2,
+     902.8
+    ],
+    "box": [
+     825,
+     853,
+     1031,
+     885
+    ]
+   }
+  ]
+ },
+ "closeups": {
+  "close-north": {
+   "source": "references/deck-images/ops/S02_slide8_1.jpg",
+   "width": 1600,
+   "height": 749,
+   "rect": {
+    "x": 677.69,
+    "y": 2.79,
+    "w": 694.41,
+    "h": 325.07
+   },
+   "transform": {
+    "crop_px_per_map_px": 2.30411,
+    "crop_x_at_map_origin": -1561.48,
+    "crop_y_at_map_origin": -6.43,
+    "formula": "crop = map * scale + offset"
+   },
+   "alignment": {
+    "correspondences": 3,
+    "rms_crop_px": 0.69,
+    "max_crop_px": 0.96,
+    "rms_map_px": 0.3,
+    "max_map_px": 0.42,
+    "features": "boundary handle centres and label dot centres"
+   },
+   "grade_match": {
+    "midday": {
+     "lowfreq_rms_8bit": 1.2899999618530273,
+     "mean_diff_after": [
+      -0.0010000000474974513,
+      -0.0010000000474974513,
+      -0.0010000000474974513
+     ]
+    },
+    "golden": {
+     "lowfreq_rms_8bit": 1.2300000190734863,
+     "mean_diff_after": [
+      -0.0020000000949949026,
+      -0.0,
+      0.0010000000474974513
+     ]
+    },
+    "dusk": {
+     "lowfreq_rms_8bit": 0.5199999809265137,
+     "mean_diff_after": [
+      0.0,
+      0.0,
+      0.0
+     ]
+    }
+   }
+  },
+  "close-centre": {
+   "source": "references/deck-images/ops/S02_slide7_1.jpg",
+   "width": 822,
+   "height": 1000,
+   "rect": {
+    "x": 614.93,
+    "y": 174.82,
+    "w": 479.92,
+    "h": 583.85
+   },
+   "transform": {
+    "crop_px_per_map_px": 1.71278,
+    "crop_x_at_map_origin": -1053.24,
+    "crop_y_at_map_origin": -299.43,
+    "formula": "crop = map * scale + offset"
+   },
+   "alignment": {
+    "correspondences": 5,
+    "rms_crop_px": 0.47,
+    "max_crop_px": 0.59,
+    "rms_map_px": 0.27,
+    "max_map_px": 0.34,
+    "features": "boundary handle centres and label dot centres"
+   },
+   "grade_match": {
+    "midday": {
+     "lowfreq_rms_8bit": 1.7100000381469727,
+     "mean_diff_after": [
+      0.0,
+      -0.0010000000474974513,
+      -0.0
+     ]
+    },
+    "golden": {
+     "lowfreq_rms_8bit": 1.590000033378601,
+     "mean_diff_after": [
+      -0.0020000000949949026,
+      -0.0010000000474974513,
+      0.0
+     ]
+    },
+    "dusk": {
+     "lowfreq_rms_8bit": 0.699999988079071,
+     "mean_diff_after": [
+      -0.0,
+      -0.0,
+      -0.0
+     ]
+    }
+   }
+  },
+  "close-east": {
+   "source": "references/deck-images/ops/S02_slide8_2.jpg",
+   "width": 1600,
+   "height": 677,
+   "rect": {
+    "x": 872.29,
+    "y": 360.7,
+    "w": 709.16,
+    "h": 300.06
+   },
+   "transform": {
+    "crop_px_per_map_px": 2.25618,
+    "crop_x_at_map_origin": -1968.04,
+    "crop_y_at_map_origin": -813.81,
+    "formula": "crop = map * scale + offset"
+   },
+   "alignment": {
+    "correspondences": 4,
+    "rms_crop_px": 0.21,
+    "max_crop_px": 0.31,
+    "rms_map_px": 0.09,
+    "max_map_px": 0.14,
+    "features": "boundary handle centres and label dot centres"
+   },
+   "grade_match": {
+    "midday": {
+     "lowfreq_rms_8bit": 1.5700000524520874,
+     "mean_diff_after": [
+      0.0010000000474974513,
+      0.0,
+      -0.0
+     ]
+    },
+    "golden": {
+     "lowfreq_rms_8bit": 1.3899999856948853,
+     "mean_diff_after": [
+      -0.0,
+      -0.0,
+      0.0
+     ]
+    },
+    "dusk": {
+     "lowfreq_rms_8bit": 0.6200000047683716,
+     "mean_diff_after": [
+      -0.0,
+      -0.0,
+      0.0
+     ]
+    }
+   }
+  },
+  "close-west": {
+   "source": "references/deck-images/ops/S02_slide9_1.jpg",
+   "width": 1019,
+   "height": 1000,
+   "rect": {
+    "x": 402.69,
+    "y": 423.66,
+    "w": 533.09,
+    "h": 523.15
+   },
+   "transform": {
+    "crop_px_per_map_px": 1.91151,
+    "crop_x_at_map_origin": -769.75,
+    "crop_y_at_map_origin": -809.83,
+    "formula": "crop = map * scale + offset"
+   },
+   "alignment": {
+    "correspondences": 19,
+    "rms_crop_px": 0.53,
+    "max_crop_px": 0.99,
+    "rms_map_px": 0.28,
+    "max_map_px": 0.52,
+    "features": "boundary handle centres and label dot centres"
+   },
+   "grade_match": {
+    "midday": {
+     "lowfreq_rms_8bit": 2.7799999713897705,
+     "mean_diff_after": [
+      0.010999999940395355,
+      0.0010000000474974513,
+      0.0010000000474974513
+     ]
+    },
+    "golden": {
+     "lowfreq_rms_8bit": 2.4000000953674316,
+     "mean_diff_after": [
+      -0.0020000000949949026,
+      0.0,
+      -0.0
+     ]
+    },
+    "dusk": {
+     "lowfreq_rms_8bit": 1.149999976158142,
+     "mean_diff_after": [
+      0.0,
+      0.0,
+      -0.0
+     ]
+    }
+   }
+  },
+  "close-villas": {
+   "source": "references/deck-images/ops/S02_slide6_1.jpg",
+   "width": 1038,
+   "height": 1000,
+   "rect": {
+    "x": 341.6,
+    "y": 544.74,
+    "w": 445.22,
+    "h": 428.93
+   },
+   "transform": {
+    "crop_px_per_map_px": 2.33141,
+    "crop_x_at_map_origin": -796.4,
+    "crop_y_at_map_origin": -1270.0,
+    "formula": "crop = map * scale + offset"
+   },
+   "alignment": {
+    "correspondences": 17,
+    "rms_crop_px": 0.55,
+    "max_crop_px": 0.91,
+    "rms_map_px": 0.23,
+    "max_map_px": 0.39,
+    "features": "boundary handle centres and label dot centres"
+   },
+   "grade_match": {
+    "midday": {
+     "lowfreq_rms_8bit": 2.2799999713897705,
+     "mean_diff_after": [
+      0.017999999225139618,
+      0.003000000026077032,
+      0.0010000000474974513
+     ]
+    },
+    "golden": {
+     "lowfreq_rms_8bit": 1.940000057220459,
+     "mean_diff_after": [
+      -0.0010000000474974513,
+      -0.0010000000474974513,
+      0.0
+     ]
+    },
+    "dusk": {
+     "lowfreq_rms_8bit": 0.9200000166893005,
+     "mean_diff_after": [
+      0.0,
+      -0.0,
+      0.0
+     ]
+    }
+   }
+  }
+ },
+ "masterplan": {
+  "width": 1178,
+  "height": 1335,
+  "removed": [
+   "13 label pills (number circle + name)",
+   "title cartouche bottom-right with scale bar"
+  ],
+  "cartouche_box": [
+   816,
+   1170,
+   1144,
+   1298
+  ],
+  "labels": [
+   {
+    "number": 1,
+    "name": "Main Entrance",
+    "lines": [
+     "Main Entrance"
+    ],
+    "center": {
+     "x": 77.7,
+     "y": 744.1
+    },
+    "radius": 15.5,
+    "pill_box": [
+     92,
+     731,
+     213,
+     758
+    ]
+   },
+   {
+    "number": 2,
+    "name": "Main Garden",
+    "lines": [
+     "Main Garden"
+    ],
+    "center": {
+     "x": 429.2,
+     "y": 367.6
+    },
+    "radius": 15.2,
+    "pill_box": [
+     443,
+     354,
+     556,
+     381
+    ]
+   },
+   {
+    "number": 3,
+    "name": "Natural Area",
+    "lines": [
+     "Natural Area"
+    ],
+    "center": {
+     "x": 302.8,
+     "y": 608.6
+    },
+    "radius": 15.4,
+    "pill_box": [
+     318,
+     595,
+     428,
+     622
+    ]
+   },
+   {
+    "number": 4,
+    "name": "Event Salon",
+    "lines": [
+     "Event Salon"
+    ],
+    "center": {
+     "x": 280.1,
+     "y": 262.6
+    },
+    "radius": 15.2,
+    "pill_box": [
+     294,
+     250,
+     394,
+     276
+    ]
+   },
+   {
+    "number": 5,
+    "name": "Big Event Salon",
+    "lines": [
+     "Big Event Salon"
+    ],
+    "center": {
+     "x": 576.9,
+     "y": 462.8
+    },
+    "radius": 15.4,
+    "pill_box": [
+     591,
+     449,
+     721,
+     476
+    ]
+   },
+   {
+    "number": 6,
+    "name": "Owner's House - Do Not Touch",
+    "lines": [
+     "Owner's House -",
+     "Do Not Touch"
+    ],
+    "center": {
+     "x": 843.6,
+     "y": 393.9
+    },
+    "radius": 15.9,
+    "pill_box": [
+     856,
+     378,
+     997,
+     421
+    ]
+   },
+   {
+    "number": 7,
+    "name": "Romantic Garden",
+    "lines": [
+     "Romantic Garden"
+    ],
+    "center": {
+     "x": 780.4,
+     "y": 569.5
+    },
+    "radius": 15.3,
+    "pill_box": [
+     794,
+     556,
+     934,
+     583
+    ]
+   },
+   {
+    "number": 8,
+    "name": "Vineyard",
+    "lines": [
+     "Vineyard"
+    ],
+    "center": {
+     "x": 492.4,
+     "y": 62.9
+    },
+    "radius": 15.5,
+    "pill_box": [
+     506,
+     50,
+     609,
+     77
+    ]
+   },
+   {
+    "number": 9,
+    "name": "Lobby / Restaurant / Bar / Offices",
+    "lines": [
+     "Lobby / Restaurant",
+     "/ Bar / Offices"
+    ],
+    "center": {
+     "x": 112.0,
+     "y": 501.2
+    },
+    "radius": 15.6,
+    "pill_box": [
+     125,
+     486,
+     283,
+     529
+    ]
+   },
+   {
+    "number": 10,
+    "name": "Housekeeping & Security HQ",
+    "lines": [
+     "Housekeeping &",
+     "Security HQ"
+    ],
+    "center": {
+     "x": 226.1,
+     "y": 394.1
+    },
+    "radius": 15.8,
+    "pill_box": [
+     239,
+     379,
+     364,
+     420
+    ]
+   },
+   {
+    "number": 11,
+    "name": "Natural Area",
+    "lines": [
+     "Natural Area"
+    ],
+    "center": {
+     "x": 299.9,
+     "y": 800.6
+    },
+    "radius": 15.8,
+    "pill_box": [
+     314,
+     787,
+     426,
+     814
+    ]
+   },
+   {
+    "number": 12,
+    "name": "Villa N1",
+    "lines": [
+     "Villa N1"
+    ],
+    "center": {
+     "x": 1037.5,
+     "y": 243.4
+    },
+    "radius": 15.3,
+    "pill_box": [
+     1052,
+     230,
+     1132,
+     257
+    ]
+   },
+   {
+    "number": 13,
+    "name": "Secondary Garden",
+    "lines": [
+     "Secondary Garden"
+    ],
+    "center": {
+     "x": 78.6,
+     "y": 309.8
+    },
+    "radius": 15.5,
+    "pill_box": [
+     92,
+     296,
+     238,
+     323
+    ]
+   }
+  ]
+ },
+ "spa_plan": {
+  "width": 1232,
+  "height": 1024,
+  "crop": "x < 1232 of Woodland Wellness Retreat Site Plan.png (legend removed; numbered circles kept)",
+  "circles": [
+   {
+    "n": 1,
+    "x": 824.5,
+    "y": 111.4,
+    "r": 12.0,
+    "name": "Arrival and parking"
+   },
+   {
+    "n": 2,
+    "x": 739.65,
+    "y": 216.55,
+    "r": 12.0,
+    "name": "Small lounge"
+   },
+   {
+    "n": 3,
+    "x": 553.3,
+    "y": 187.7,
+    "r": 12.0,
+    "name": "Gym"
+   },
+   {
+    "n": 4,
+    "x": 329.4,
+    "y": 305.6,
+    "r": 12.0,
+    "name": "Yoga room"
+   },
+   {
+    "n": 5,
+    "x": 230.1,
+    "y": 378.3,
+    "r": 12.0,
+    "name": "Yoga terrace"
+   },
+   {
+    "n": 6,
+    "x": 455.35,
+    "y": 394.5,
+    "r": 12.0,
+    "name": "Sauna"
+   },
+   {
+    "n": 7,
+    "x": 551.25,
+    "y": 378.3,
+    "r": 12.0,
+    "name": "Red-light room"
+   },
+   {
+    "n": 8,
+    "x": 699.6,
+    "y": 365.1,
+    "r": 11.0,
+    "name": "Changing and showers"
+   },
+   {
+    "n": 9,
+    "x": 685.15,
+    "y": 479.65,
+    "r": 12.0,
+    "name": "Heated pool"
+   },
+   {
+    "n": 10,
+    "x": 655.3,
+    "y": 665.5,
+    "r": 12.0,
+    "name": "Natural reservoir"
+   },
+   {
+    "n": 12,
+    "x": 1062.9,
+    "y": 298.85,
+    "r": 12.0,
+    "name": "Service and technical"
+   }
+  ]
+ },
+ "spa_render": {
+  "source": "Lakeside Woodland Wellness Retreat.png",
+  "skipped": "Lake bungalows tile (no accommodation in the spa zone)",
+  "crops": {
+   "spa-hero": [
+    0,
+    0,
+    1536,
+    584
+   ],
+   "spa-pool": [
+    0,
+    589,
+    328,
+    738
+   ],
+   "spa-sauna": [
+    332,
+    589,
+    617,
+    738
+   ],
+   "spa-redlight": [
+    621,
+    589,
+    869,
+    738
+   ],
+   "spa-yoga": [
+    874,
+    589,
+    1196,
+    738
+   ],
+   "spa-gym": [
+    1199,
+    589,
+    1536,
+    738
+   ],
+   "spa-reservoir": [
+    0,
+    786,
+    418,
+    973
+   ],
+   "spa-integration": [
+    770,
+    786,
+    1089,
+    973
+   ]
+  }
+ }
+}
